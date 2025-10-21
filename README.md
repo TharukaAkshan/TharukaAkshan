@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharuka Akshan</h1>
-<h3 align="center">A passionate Data Science Engineer from Sri Lanka</h3>
+<h3 align="center">AI Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharukaakshan&label=Profile%20views&color=0e75b6&style=flat" alt="tharukaakshan" /> </p>
 
